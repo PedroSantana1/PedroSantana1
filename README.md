@@ -21,6 +21,7 @@ or <a href="pedro.costa.santana@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantana1&layout=compact&langs_count=7&theme=light" alt="ABSphreak's Github Stats">
 
 </br>
